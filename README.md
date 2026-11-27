@@ -5,6 +5,12 @@ Smiling Imp's recruitable Zelda &amp; Link mod for BGII, BG2EE, and EET.  Rescue
 
 Preserved on GitHub for posterity.  Bug fixed by Claude.
 
+**1.4's Changes**
+- Seemingly every bug fixed.
+- Every icon has a proper sepia sketch now.
+- Walkthrough included.
+- Much more playable.  Alleluia!
+
 **1.2's Changes**
 - Monsters the mod places in Irenicus's dungeon start neutral and turn hostile when they see the party, so they no longer block resting from behind walls
 - Fixed the Umar Hills invasion spawning a creature that does not exist (ICG0B02 instead of ICGOB02)
